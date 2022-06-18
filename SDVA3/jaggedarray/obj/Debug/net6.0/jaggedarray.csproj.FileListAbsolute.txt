@@ -1,0 +1,15 @@
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\bin\Debug\net6.0\jaggedarray.exe
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\bin\Debug\net6.0\jaggedarray.deps.json
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\bin\Debug\net6.0\jaggedarray.runtimeconfig.json
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\bin\Debug\net6.0\jaggedarray.dll
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\bin\Debug\net6.0\jaggedarray.pdb
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\jaggedarray.csproj.AssemblyReference.cache
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\jaggedarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\jaggedarray.AssemblyInfoInputs.cache
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\jaggedarray.AssemblyInfo.cs
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\jaggedarray.csproj.CoreCompileInputs.cache
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\jaggedarray.dll
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\refint\jaggedarray.dll
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\jaggedarray.pdb
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\jaggedarray.genruntimeconfig.cache
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\jaggedarray\obj\Debug\net6.0\ref\jaggedarray.dll

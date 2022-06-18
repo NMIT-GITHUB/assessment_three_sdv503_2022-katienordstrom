@@ -1,0 +1,15 @@
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\bin\Debug\net6.0\SDVA3.exe
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\bin\Debug\net6.0\SDVA3.deps.json
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\bin\Debug\net6.0\SDVA3.runtimeconfig.json
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\bin\Debug\net6.0\SDVA3.dll
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\bin\Debug\net6.0\SDVA3.pdb
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\SDVA3.csproj.AssemblyReference.cache
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\SDVA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\SDVA3.AssemblyInfoInputs.cache
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\SDVA3.AssemblyInfo.cs
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\SDVA3.csproj.CoreCompileInputs.cache
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\SDVA3.dll
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\refint\SDVA3.dll
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\SDVA3.pdb
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\SDVA3.genruntimeconfig.cache
+C:\Users\Katie\source\repos\assessment_three_sdv503_2022-katienordstrom\SDVA3\obj\Debug\net6.0\ref\SDVA3.dll
