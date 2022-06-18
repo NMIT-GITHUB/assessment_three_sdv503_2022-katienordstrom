@@ -76,3 +76,5 @@ switch (Console.ReadLine()) //Reads what the user input and chooses the correspo
 // Wait for the user to respond before closing.
 Console.Write("Press any key to close the Calculator console app...");
 Console.ReadKey(); //Closes the console
+
+
